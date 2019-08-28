@@ -23,11 +23,6 @@
 }
 
 
-.login-container form input :: placeholder{
-    color: #999999;
-}
-
-
 .login-container form button{
     margin-top: 10px;
     border:0;
